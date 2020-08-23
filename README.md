@@ -17,6 +17,6 @@ I want to become a Dev-Ops engineer and working towards attaining it.
 ### [GitHub](https://github.com/abhiteja29)
 
 ## My Image:
-
+<img src="Abhi.jpeg"/>
 
 
