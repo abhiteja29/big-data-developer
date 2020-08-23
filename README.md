@@ -13,8 +13,10 @@ I want to become a Dev-Ops engineer and working towards attaining it.
 
 ## Links
 
-### [LinkedIn](https://www.linkedin.com/in/omkar-abhiteja-badda-661866180/)
-### [GitHub](https://github.com/abhiteja29)
+###
+[LinkedIn](https://www.linkedin.com/in/omkar-abhiteja-badda-661866180/)
+### 
+[GitHub](https://github.com/abhiteja29)
 
 ## My Image:
 ![](Abhi.jpeg)
